@@ -12,6 +12,8 @@ You will create the following AWS resources:
 - A route table
 - An EC2 instance
 
+![image](VPC_lab2.drawio.png)
+
 ## Step 1 Create a VPC and subnets
 
 The first step is to create a VPC and two subnets. This example uses the CIDR block 10.0.0.0/16 for the VPC.
